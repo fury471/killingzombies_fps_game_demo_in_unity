@@ -1,0 +1,69 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio / Rider / IDE
+.vs/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vsconfig
+
+# OS / misc
+.DS_Store
+Thumbs.db
+UpgradeLog*.htm
+sysinfo.txt
+
+# Crash / diagnostic output
+*.stacktrace
+
+# Local planning / workshop notes (do not upload)
+UNITY_11DAY_FPS_ROADMAP.md
+workshop*.md
+
+# Unity recovery files
+The One Who Survives/Assets/_Recovery/
+The One Who Survives/Assets/_Recovery.meta
+
+# Third-party asset pack content not used by this project build
+The One Who Survives/Assets/Abandoned_Asylum/Show/
+The One Who Survives/Assets/Abandoned_Asylum/Show.meta
+The One Who Survives/Assets/Abandoned_Asylum/Show_Assets/
+The One Who Survives/Assets/Abandoned_Asylum/Show_Assets.meta
+The One Who Survives/Assets/GILD/
+The One Who Survives/Assets/GILD.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Barret M107/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Barret M107.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/ColtM4/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/ColtM4.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Gatling/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Gatling.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Rocket_Shells/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Rocket_Shells.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/SMAW Launcher/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/SMAW Launcher.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Shotgun/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Shotgun.meta
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Uzi/
+The One Who Survives/Assets/Weapons Pack(LOW POLY)/Uzi.meta
