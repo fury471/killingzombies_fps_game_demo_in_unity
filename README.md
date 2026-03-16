@@ -8,6 +8,10 @@ The Unity project is located in:
 
 - `The One Who Survives/`
 
+Unity version:
+
+- `6000.3.10f1`
+
 Important scenes:
 
 - `Assets/Scenes/MainMenu.unity`
