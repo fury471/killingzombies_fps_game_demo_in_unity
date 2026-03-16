@@ -34,9 +34,9 @@ public class KnifeAttack : MonoBehaviour
             weaponAnimationPlayer.PlayFire();
         }
 
-        if (Physics.Raycast(ray, out hit, range))
+        if (Physics.Raycast(ray, out hit, range, Physics.DefaultRaycastLayers, QueryTriggerInteraction.Ignore))
         {
-            EnemyHealth enemy = hit.collider.GetComponent<EnemyHealth>();
+            EnemyHealth enemy = hit.collider.GetComponentInParent<EnemyHealth>();
             if (enemy != null)
             {
                 enemy.TakeDamage(damage);
