@@ -49,6 +49,34 @@ Important scenes:
 2. Add the folder `The One Who Survives`
 3. Open the project in Unity
 
+## Cloning And Large Assets
+
+This project may use Git LFS for large binary assets such as textures, models, and audio.
+
+Important:
+
+- A normal GitHub `Download ZIP` archive may not be enough to open the full Unity project if LFS-managed files are excluded from GitHub source archives.
+- For a complete working project, prefer cloning with Git and Git LFS instead of downloading the repository ZIP.
+
+Recommended workflow:
+
+```powershell
+git clone https://github.com/fury471/KillingZombies_FPS_Game_demo_in_Unity.git
+cd KillingZombies_FPS_Game_demo_in_Unity
+git lfs pull
+```
+
+Optional lightweight first clone:
+
+```powershell
+git lfs install --skip-smudge
+git clone https://github.com/fury471/KillingZombies_FPS_Game_demo_in_Unity.git
+cd KillingZombies_FPS_Game_demo_in_Unity
+git lfs pull
+```
+
+If you only want to play the game, use the Windows build from the GitHub Release instead of the source repository.
+
 ## Build
 
 Use Unity Build Profiles / Build Settings and include:
