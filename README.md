@@ -2,6 +2,14 @@
 
 A small first-person horror survival demo built in Unity. The player explores an abandoned hospital/asylum, fights zombies, collects mission objectives, and escapes through the final exit.
 
+## Screenshots
+
+![Knife combat against a zombie](screenshots/gameplay-knife-zombie.png)
+
+![Rifle combat in the asylum room](screenshots/gameplay-rifle-room.png)
+
+![Final exit hall](screenshots/gameplay-exit-hall.png)
+
 ## Project Structure
 
 The Unity project is located in:
